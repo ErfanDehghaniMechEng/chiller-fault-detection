@@ -46,3 +46,10 @@ The script prints the metrics and saves the three figures in the folder you run 
 ## Next steps
 - Repeat with real chiller data (for example, a dataset based on ASHRAE RP-1043)
 - Compare other models
+
+## Author
+**Erfan Dehghani**
+Mechanical Engineering · Machine Learning practice projects
+
+- GitHub: [ErfanDehghaniMechEng](https://github.com/ErfanDehghaniMechEng)
+- LinkedIn: [https://www.linkedin.com/in/dehghani-erfan]
